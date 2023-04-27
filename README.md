@@ -10,4 +10,4 @@ conutry_codes_with_flag is a github repository to store all the data of all coun
 
 ## Maintainers
 
- - [Rajkumar](https://www.npmjs.com/~fullstackrajkumar)
+ - [Rajkumar](https://github.com/fullstackrajkumar)
